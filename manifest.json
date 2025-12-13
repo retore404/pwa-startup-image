@@ -2,14 +2,14 @@
   "name": "SampleApp",
   "short_name": "SampleApp",
   "description": "SampleApp",
-  "start_url": "/",
+  "start_url": "/pwa-startup-image",
   "display": "fullscreen",
   "background_color": "#fff",
   "theme_color": "#2D4863",
   "scope": "/",
   "icons": [
     {
-      "src": "/icon-2048x2048.png",
+      "src": "/pwa-startup-image/icon-2048x2048.png",
       "sizes": "2048x2048",
       "type": "image/png"
     }
